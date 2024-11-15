@@ -71,6 +71,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
 ```
 ## activitymain.xml:
 ```
@@ -97,6 +98,7 @@ public class MainActivity extends AppCompatActivity {
         android:text="Navigate"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>
+
 
 
 
